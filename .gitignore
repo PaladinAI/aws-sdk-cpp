@@ -2,6 +2,7 @@
 .metadata
 .build
 .idea
+.vscode
 *.d
 Debug
 Release
